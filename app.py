@@ -349,7 +349,7 @@ with st.sidebar:
     )
 
     st.divider()
-    st.markdown("<p style='color:#555;font-size:11px;'>Built for Xeno TAM Interview<br>Python · SQL · Excel · API</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color:#555;font-size:11px;'>Retail Customer Intelligence</p>", unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
 # LOAD DATA
